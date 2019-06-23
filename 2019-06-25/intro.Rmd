@@ -1,0 +1,122 @@
+---
+title: "Orange Country R Users Group Meetup"
+subtitle: "Integrating React.js and Shiny, and UCI Capstone"
+author: ""
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts, intro.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+background-image: url('RafflePoster.png')
+
+# Support OCRUG, purchase raffle tickets
+
+## Venmo: Ryan-Benz-42
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+---
+# Welcome
+.large[
+* Newcomers
+* Schedule
+    * 6:30 - 6:50 Networking
+    * 6:50 - 7:00 Welcome & general announcement
+    * 7:00 - 7:15 UCI - Amazon Alexa Skill Store
+    * 7:15 - 7:30 UCI - Pacific Life
+    * 7:30 - 8:00 Integrating React.js and Shiny
+    * 8:00 - Raffle
+    * 8:00 - 8:30 Networking and Clean-up
+]
+---
+# Connect with us
+.large[
+* Website: https://www.ocrug.org/
+* GitHub: https://tinyurl.com/ocrug-github
+* Slack: https://tinyurl.com/ocrug-slack
+    * Signup: https://tinyurl.com/ocrug-slack-signup
+* YouTube: https://tinyurl.com/ocrug-youtube
+* Twitter @oc_rug 
+* Instagram: oc_rug
+]
+
+---
+# Announcements
+.large[
+* Recording Talks
+* Microphone
+* Blog
+* Twitter: @oc_rug
+* Instagram: or_rug
+* Email address @ocrug.org
+* Venmo: Ryan-Benz-42
+]
+---
+background-image: url('ocrug_hex.png')
+
+# Stickers
+
+## We have custom OCRUG Hex Stickers
+
+---
+# Volunteers
+.large[
+* Thanks
+* Looking for more help
+]
+
+---
+# Sponsors
+
+![](CRC-blank.png)
+![](PeopleSpace.png)
+![](UCI_Merage_Business_School.jpg)
+---
+# Talks
+.large[
+* UCI MSBA Capstone
+    * Amazon Alexa Skill Store - Shruhi Desai
+    * Pacific Life - Pablo Barajas
+* Integrating React.js and Shiny - Alan Dipert
+]
+
+---
+background-image: url('RafflePoster.png')
+
+# Raffle
+
+## Venmo: Ryan-Benz-42
+
+---
+# Upcoming events
+.large[
+* July Meetup - 2019-07-30
+    * Data Visualization with R Shiny
+        * Alyssa Columbus
+    * Topic modeling in cancer patients' mutational profiles
+        * Zhi Yang
+* Regression Short Course
+    * Dr. Olga Korosteleva
+    * 2019-09-21
+* H2O.ai Training
+    * Some time in October
+]
+---
+# Connect with us
+.large[
+* Website: https://www.ocrug.org/
+* GitHub: https://tinyurl.com/ocrug-github
+* Slack: https://tinyurl.com/ocrug-slack
+    * Signup: https://tinyurl.com/ocrug-slack-signup
+* YouTube: https://tinyurl.com/ocrug-youtube
+* Twitter @oc_rug 
+* Instagram: oc_rug
+]
