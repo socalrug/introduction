@@ -1,6 +1,6 @@
 ---
 title: "Orange Country R Users Group Meetup"
-subtitle: "Integrating React.js and Shiny, and UCI Capstone"
+subtitle: "Making an R package with usethis, and UCI Capstone"
 author: ""
 date: "`r Sys.Date()`"
 output:
@@ -32,7 +32,7 @@ options(servr.daemon = TRUE)
     * 6:50 - 7:00 Welcome & general announcement
     * 7:00 - 7:15 UCI - Amazon Alexa Skill Store
     * 7:15 - 7:30 UCI - Pacific Life
-    * 7:30 - 8:00 Integrating React.js and Shiny
+    * 7:30 - 8:00 Making an R package with usethis
     * 8:00 - Raffle
     * 8:00 - 8:30 Networking and Clean-up
 ]
