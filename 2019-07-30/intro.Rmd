@@ -1,0 +1,135 @@
+---
+title: "Orange Country R Users Group Meetup"
+subtitle: "Shiny overview and LDA analysis of cancer genes"
+author: ""
+date: "2019-07-30"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts, intro.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+# Raffle Tickets
+
+![](DataScienceGo.png)
+.large[
+Prize: Conference Recordings ($149 Value) - 2 Prizes
+
+Raffle tickets: $1/ticket
+
+$5 for 10 tickets plus $25 AWS Discount Code!!
+
+Venmo: Ryan-Benz-42
+]
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+---
+# Welcome
+.large[
+* Newcomers
+* Schedule
+    * 6:30 - 6:50 Networking
+    * 6:50 - 7:00 Welcome & general announcement
+    * 7:00 - 7:30 Data Visualization with R Shiny
+    * 7:30 - 8:00 Topic modeling in cancer patients' mutational profiles
+    * 8:00 - Raffle
+    * 8:00 - 8:30 Networking and Clean-up
+]
+---
+# Connect with us
+.large[
+* Website: https://www.ocrug.org/
+* GitHub: https://tinyurl.com/ocrug-github
+* Slack: https://tinyurl.com/ocrug-slack
+    * Signup: https://tinyurl.com/ocrug-slack-signup
+* YouTube: https://tinyurl.com/ocrug-youtube
+* Twitter @oc_rug 
+* Instagram: oc_rug
+]
+
+---
+# Announcements
+.large[
+* Recording Talks
+* Microphone
+* Blog
+* Twitter: @oc_rug
+* Instagram: or_rug
+* Email address @ocrug.org
+* Venmo: Ryan-Benz-42
+]
+---
+background-image: url('ocrug_hex.png')
+
+# Stickers
+
+## We have custom OCRUG Hex Stickers
+
+---
+# Volunteers
+.large[
+* Thanks
+* Looking for more help
+]
+
+---
+# Sponsors
+
+![](DataScienceGo.png)
+.medium[
+* Data Science Conference, Sept 27-29
+* Discount Code: OCRUGMeetup (20% off conferance)
+]
+![](PeopleSpace.png)
+---
+# Talks
+.large[
+* Data Visualization with R Shiny
+    * Speaker: Alyssa Columbus
+* Topic modeling in cancer patients' mutational profiles
+    * Speaker: Zhi Yang
+]
+
+---
+# Raffle
+
+![](DataScienceGo.png)
+.large[
+Prize: Conference Recordings ($149 Value) - 2 Prizes
+
+Raffle tickets: $1/ticket
+
+$5 for 10 tickets plus $25 AWS Discount Code!!
+
+Venmo: Ryan-Benz-42
+]
+---
+# Upcoming events
+.large[
+* August Meetup - 2019-08-27
+    * Advanced Regressions with R Applications
+        * Speaker: Olga Korosteleva
+    * A Brief Introduction to Using R for High-Performance Computing
+        * Speaker: George G Vega Yon
+* Regression Short Course
+    * Dr. Olga Korosteleva
+    * 2019-10-05
+]
+---
+# Connect with us
+.large[
+* Website: https://www.ocrug.org/
+* GitHub: https://tinyurl.com/ocrug-github
+* Slack: https://tinyurl.com/ocrug-slack
+    * Signup: https://tinyurl.com/ocrug-slack-signup
+* YouTube: https://tinyurl.com/ocrug-youtube
+* Twitter @oc_rug 
+* Instagram: oc_rug
+]
