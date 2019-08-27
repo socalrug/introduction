@@ -1,0 +1,157 @@
+---
+title: "Orange Country R Users Group Meetup"
+subtitle: "Advanced Regressions and High-performance Computing"
+author: ""
+date: "2019-08-27"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts, intro.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+# Raffle Tickets
+
+![](DataScienceGo.png)
+.large[
+Prize: Conference Recordings ($149 Value) - 2 Prizes
+
+Raffle tickets: $1/ticket
+
+$5 for 10 tickets plus $25 AWS Discount Code!!
+
+Venmo: Ryan-Benz-42
+]
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+---
+# Welcome
+.large[
+* Newcomers
+* Schedule
+    * 6:30 - 6:50 Networking
+    * 6:50 - 7:00 Welcome & general announcement
+    * 7:00 - 7:30 Regression Models for Count Data
+    * 7:30 - 8:00 A Brief Introduction to Using R for High-Performance Computing
+    * 8:00 - Raffle
+    * 8:00 - 8:30 Networking and Clean-up
+]
+---
+# Connect with us
+.large[
+* Website: https://www.ocrug.org/
+* GitHub: https://tinyurl.com/ocrug-github
+* Slack: https://tinyurl.com/ocrug-slack
+    * Signup: https://tinyurl.com/ocrug-slack-signup
+* YouTube: https://tinyurl.com/ocrug-youtube
+* Twitter @oc_rug 
+* Instagram: oc_rug
+]
+
+---
+# Announcements
+.large[
+* Data Science Go
+    * John will be speaking and on a panel
+    * Data Science Conference, Sept 27-29
+    * Discount Code: OCRUGMeetup (20% off)
+    * Cost: $595 / $225 (student)
+]
+
+---
+# Announcements
+
+.pull-left[
+.medium[
+* Regression Short Course
+    * Dr. Olga Korosteleva
+    * 2019-10-05
+    * Hosted at UCI
+    * Tickets onsale ($25)
+    * https://tinyurl.com/ocrug-regression
+    * Looking for volunteers
+]
+]
+
+.pull-right[
+![](book.png)
+]
+
+---
+# Announcements
+.large[
+* Hackathon
+    * Partnering with UCI 
+    * 2019-11-09 to 2019-11-10
+    * Tickets onsale soon
+]
+
+---
+background-image: url('ocrug_hex.png')
+
+# Stickers
+
+## We have custom OCRUG Hex Stickers
+
+---
+# Sponsors
+
+![](DataScienceGo.png)
+.medium[
+* Data Science Conference, Sept 27-29
+* Discount Code: OCRUGMeetup (20% off conferance)
+]
+![](PeopleSpace.png)
+---
+# Talks
+.large[
+* Regression Models for Count Data with R
+    * Speaker: Dr. Olga Korosteleva
+* A brief introduction to using R for high-performance computing
+    * Speaker: George G Vega Yon
+]
+
+---
+# Raffle
+
+![](DataScienceGo.png)
+.large[
+Prize: Conference Recordings ($149 Value) - 2 Prizes
+
+Raffle tickets: $1/ticket
+
+$5 for 10 tickets plus $25 AWS Discount Code!!
+
+Venmo: Ryan-Benz-42
+]
+---
+# Upcoming events
+.large[
+* Sept Meetup - 2019-09-24
+    * Speeding up R with Rcpp
+        * Speaker: Luke Klein
+    * TDB
+        * Speaker: TDB
+* Regression Short Course
+    * Dr. Olga Korosteleva
+    * 2019-10-05
+* Hackathon
+    * 2019-11-09 to 2019-11-10
+]
+---
+# Connect with us
+.large[
+* Website: https://www.ocrug.org/
+* GitHub: https://tinyurl.com/ocrug-github
+* Slack: https://tinyurl.com/ocrug-slack
+    * Signup: https://tinyurl.com/ocrug-slack-signup
+* YouTube: https://tinyurl.com/ocrug-youtube
+* Twitter @oc_rug 
+* Instagram: oc_rug
+]
