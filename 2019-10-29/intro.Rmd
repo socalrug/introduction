@@ -1,0 +1,130 @@
+---
+title: "Orange Country R Users Group Meetup"
+subtitle: "Using YAML and Python in your R Workflow"
+author: ""
+date: "2019-10-29"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts, intro.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Newcomers
+* Schedule
+    * 6:30 - 6:50 Networking
+    * 6:50 - 7:00 Welcome & general announcement
+    * 7:00 - 7:30 The YAML problem
+    * 7:30 - 8:00 Snakes in the Studio
+    * 8:00 - 8:30 Networking and Clean-up
+]
+
+
+---
+# Connect with us
+.large[
+* Website: https://www.ocrug.org/
+* GitHub: https://tinyurl.com/ocrug-github
+* Slack: https://tinyurl.com/ocrug-slack
+    * Signup: https://tinyurl.com/ocrug-slack-signup
+* YouTube: https://tinyurl.com/ocrug-youtube
+* Twitter @oc_rug 
+* Instagram: oc_rug
+]
+
+---
+# Announcements
+.large[
+* Data Science Salon LA
+    * John will be speaking
+    * 2019-11-07 (Thursday)
+    * Discount Code: speaker20 (20% off)
+    * Cost: $350 / 150 (student)
+    * https://www.datascience.salon/la/
+]
+
+---
+# Announcements
+
+.large[
+* ASA Traveling Full-Day Course
+    * Guidelines for Using State-of-the-Art Methods to Estimate
+Propensity Score and Inverse Probability of Treatment Weights When Drawing Causal Inferences
+    * 2019-11-09 (Saturday)
+    * Location: Duarte, CA
+    * $40 general / $10 student
+    * https://community.amstat.org/scasa/asw/new-item3
+]
+---
+# Announcements
+.large[
+* Hackathon
+    * Partnering with UCI 
+    * 2019-11-09 to 2019-11-10
+    * Tickets $35 
+    * https://tinyurl.com/hackathon-2019-11
+]
+
+---
+background-image: url('ocrug_hex.png')
+
+# Stickers
+
+## We have custom OCRUG Hex Stickers
+
+---
+# Sponsors
+
+
+![](PeopleSpace.png)
+---
+# Talks
+.large[
+* The YAML problem: Writing and working with YAML with ymlthis
+    * Speaker: Malcolm Barrett
+* Snakes in the Studio: Adding Python to your R Workflow
+    * Speaker: Michael Espero
+]
+
+---
+# Upcoming events
+.large[
+* October Meetup - 2019-11-26
+    * Integrating React.js and Shiny
+        * Speaker: Alan Dipert
+    * Building a package that fits into an evolving ecosystem
+        * Speaker: Emil Hvitfeldt
+]
+---
+# Upcoming events
+.large[
+* Hackathon
+    * Partnering with UCI 
+    * 2019-11-09 to 2019-11-10
+    * Tickets $35 
+    * https://tinyurl.com/hackathon-2019-11
+]
+---
+# Connect with us
+.large[
+* Website: https://www.ocrug.org/
+* GitHub: https://tinyurl.com/ocrug-github
+* Slack: https://tinyurl.com/ocrug-slack
+    * Signup: https://tinyurl.com/ocrug-slack-signup
+* YouTube: https://tinyurl.com/ocrug-youtube
+* Twitter @oc_rug 
+* Instagram: oc_rug
+]
+
+
