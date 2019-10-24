@@ -100,7 +100,7 @@ background-image: url('ocrug_hex.png')
 ---
 # Upcoming events
 .large[
-* October Meetup - 2019-11-26
+* November Meetup - 2019-11-26
     * Integrating React.js and Shiny
         * Speaker: Alan Dipert
     * Building a package that fits into an evolving ecosystem
