@@ -1,0 +1,93 @@
+---
+title: "Orange Country R Users Group Meetup"
+subtitle: "Integrating React.js and Shiny and, Building Packages in an Ecosystem"
+author: ""
+date: "2019-11-19"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts, intro.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Newcomers
+* Volunteers
+* Schedule
+    * 6:30 - 6:50 Networking
+    * 6:50 - 7:00 Welcome & general announcement
+    * 7:00 - 7:30 Integrating React.js and Shiny
+    * 7:30 - 8:00 Building a package that fits into an evolving ecosystem
+    * 8:00 - 8:30 Networking and Clean-up
+]
+
+---
+
+# Announcements
+.large[
+* Linkedin Page
+    * https://www.linkedin.com/company/ocrug/
+]
+
+![](linkedin.png)
+---
+
+# Upcoming Event
+
+.large[
+* SoCal R Users Groups & R-Ladies All-hands Meeting
+    * 2019-11-23 10:00-04:00
+    * Headline speaker: Julia Stewart-Lowndes of R-Ladies Santa Barbara, who gave the keynote at useR 2019
+    * http://bit.ly/socalr2019
+    * Currently there is a wait-list
+]
+
+---
+# Upcoming Event
+
+.large[
+* 4th Annual OC Tech User Group Winter Party
+    * Tuesday, December 10, 2019 6:30-8:30 PM
+    * https://octugwinter.eventbrite.com/
+]
+
+---
+
+# Sponsors
+
+
+![](PeopleSpace.png)
+
+---
+
+# Connect with us
+.large[
+* Website: https://www.ocrug.org/
+* GitHub: https://tinyurl.com/ocrug-github
+* Slack: https://tinyurl.com/ocrug-slack
+    * Signup: https://tinyurl.com/ocrug-slack-signup
+* YouTube: https://tinyurl.com/ocrug-youtube
+* Twitter @oc_rug 
+* Instagram: oc_rug
+* Linkedin: https://tinyurl.com/ocrug-linkedin
+]
+
+---
+
+# Talks
+.large[
+* Integrating React.js and Shiny
+    * Speaker: Alan Dipert
+* Building a package that fits into an evolving ecosystem
+    * Speaker: Emil Hvitfeldt
+]
