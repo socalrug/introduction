@@ -1,0 +1,81 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "I Did 'Advent of Code' and Here is What I Learned"
+author: ""
+date: "2022-06-28"
+output: 
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    includes:
+      after_body: insert-logo.html
+lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Schedule
+    * 6:00 - 6:05 Welcome & Announcements
+    * 6:05 - 6:30 I Did 'Advent of Code' and Here is What I Learned
+]
+
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+**SoCal RUG**
+.large[
+* Website: https://socalr.org
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter @socalrug
+* Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# Advent of Code
+
+## I Did 'Advent of Code' and Here is What I Learned
+
+#### Speaker: **Emil Hvitfeldt**
+* Emil Hvitfeldt is a Software Engineer at RStudio PBC, teaching adjunct professor at American University, and co-author of Supervised Machine Learning for Text Analysis in R with Julia Silge. His interests include developing tools for natural language processing, machine learning using tidymodels, education, and the use of colors in data visualizations.
+
+---
+class: hide-logo
+# Advent of Code
+
+## I Did 'Advent of Code' and Here is What I Learned
+
+Many of us like puzzles. Wrestling with simple-to-understand questions, with tricky-to-find-solutions gives you a special type of bliss when you finally crack it. “Advent of Code” has been going for 7 years, challenging over 200,000 people with 25 days of action-packed programming puzzles. Participating in these events taught Emil a lot about himself, his motivations, and his tool of choice, R.
+
+This talk will pull back the curtain on a collective journey of learning. A series of elf-inspired tasks provides a challenge for all ages, skill levels, and languages. Tweeting, Slacking, and Discording with the extended R community, bringing people together to share, learn and send memes. A unique opportunity to learn something new; a different programming language, a new set of packages, or simply going as fast as possible to the horror of all style guides. Emil hopes to introduce you to a unique learning experience that will bring you as much enjoyment as it has done for him.
+
+Resources:
+
+https://www.emilhvitfeldt.com/ & 
+https://adventofcode.com/
