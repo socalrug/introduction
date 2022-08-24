@@ -1,0 +1,73 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "I fit a model... now what?"
+author: ""
+date: "2022-08-23"
+output: 
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    includes:
+      after_body: insert-logo.html
+lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Schedule
+    * 6:00 - 6:05 Welcome & Announcements
+    * 6:05 - 6:50 I fit a model... now what?
+]
+
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+**SoCal RUG**
+.large[
+* Website: https://socalr.org
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter @socalrug
+* Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# I fit a model... now what?
+
+#### Speaker: **Vincent Arel-Bundock**
+
+Vincent Arel-Bundock is an Associate Professor of Political Science at the Université de Montréal, where he teaches research methods and political economy. He uploaded his first R package to CRAN in 2009. 13 years later, he is still fielding support emails and bug reports.
+
+#### Abstract
+
+This talk introduces `marginaleffects`, a unified interface to interpret the results of over 60 classes of models in `R`. `marginaleffects` allows users to compute and plot the key quantities of interest in most statistical analyses: predictions, contrasts, marginal effects (slopes), and marginal means. In addition, users can easily conduct hypothesis tests for arbitrary functions of a model's parameters.
+
+`marginaleffects` is fast, low-dependency, actively developed, and well documented. The package website hosts an extensive list of vignettes and case studies which illustrate how to interpret and report the results of a variety of models: Bayesian, GAMs, Mixed-Effects, causal inference, etc.
+
+#### Resources: https://vincentarelbundock.github.io/marginaleffects/ and http://arelbundock.com
