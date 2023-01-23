@@ -1,0 +1,68 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Building R Packages on Easy Mode"
+author: ""
+date: "2023-01-24"
+output: 
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    includes:
+      after_body: insert-logo.html
+lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Schedule
+    * 5:30 - 5:35 Welcome & Announcements
+    * 5:35 - 6:30 Building R Packages on Easy Mode
+]
+
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+**SoCal RUG**
+.large[
+* Website: https://socalr.org
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# Building R Packages on Easy Mode
+
+#### Speaker: **Dave Gruenewald**
+[Dave Gruenewald](https://www.linkedin.com/in/dgruenew/) works at Posit (formerly RStudio) as a manager for Solutions Engineering. His current focus is helping businesses configure and administer the professional products from Posit. He resides in Chicago, IL, and can talk for hours about music, movies, or bees.
+
+Do you have scattered R scripts recycled across projects? Have you had a simple R Markdown that escalated into a full suite of dashboards and reports? Do you look at old code you wrote and wonder what the heck you were trying to do? While there are obviously lots of benefits to packaging up your R code, creating your first R package is much easier than you may think.
+
+In this session, we will create a working R package from scratch. We'll build and review a basic package skeleton with the help of the {[devtools](https://devtools.r-lib.org/)} package. Next, we'll showcase some best practices and iterative workflows around documentation and testing our new R package. Finally, we will also incorporate package data, vignettes, and a website with {[pkgdown](https://pkgdown.r-lib.org/)}.
