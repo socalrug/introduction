@@ -72,6 +72,17 @@ Participants are asked to do the reading prior to each session, and also to take
 class: hide-logo
 # Upcoming Events (continued)
 
+### 2/01 - [Posit Happy Hour](https://docs.google.com/forms/d/e/1FAIpQLScHdJD_8ZGG59H-n4w3fSnxQRlR6dhSrZAB2cBzhid5nGhXlg/viewform)
+
+MUST RSVP ON [THIS GOOGLE FORM](https://docs.google.com/forms/d/e/1FAIpQLScHdJD_8ZGG59H-n4w3fSnxQRlR6dhSrZAB2cBzhid5nGhXlg/viewform)
+
+```{r, fig.align="center", out.height="75%", out.width = "75%", echo = FALSE}
+knitr::include_graphics("images/Posit_Happy_Hour_Invite.png")
+```
+---
+class: hide-logo
+# Upcoming Events (continued)
+
 ### 2/11 - [Introduction to Stochastic Processes](https://www.meetup.com/socal-rug/events/290969003/)
 
 SIGN UP ON [EVENTBRITE](https://www.eventbrite.com/e/socal-rug-introduction-to-stochastic-processes-tickets-515333254637)
@@ -110,7 +121,7 @@ We're thrilled to announce the kickoff of our in-person meetings after a long hi
 class: hide-logo
 # Upcoming Events (continued)
 
-```{r chunkName, fig.align="center", out.height="125%", out.width = "125%", echo = FALSE}
+```{r, fig.align="center", out.height="125%", out.width = "125%", echo = FALSE}
 knitr::include_graphics("images/kylo-ren-more.gif")
 ```
 
