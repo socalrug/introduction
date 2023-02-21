@@ -1,0 +1,116 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "The Purrrfect In-Person Kickoff"
+author: ""
+date: "2023-02-21"
+output: 
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    includes:
+      after_body: insert-logo.html
+lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Schedule
+    * 6:30-7:00 meals and social
+    * 7:00-7:10 Intro
+    * 7:10-7:30 Activity
+    * 7:30-8:00 Talk
+    * 8:00-8:30 Q&A, ending remarks, more social
+
+]
+
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+**SoCal RUG**
+.large[
+* Linktree: https://linktr.ee/socalrug
+* Website: https://socalr.org
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# Upcoming Events
+
+### 3/21 - March SoCal RUG Meetup 
+
+Stay tuned for details about our March monthly meetup at PeopleSpace. Going forward, we're hoping to host meetups at PeopleSpace every third Tuesday of the month.
+
+If you have any recommendations on local speakers or presenters, or want to learn about a specific data science topic, R package, etc., please let us know!
+
+---
+class: hide-logo
+# Activity: Game Time!
+
+## Rules
+
+* We have two prizes to give out!
+
+* Try the four-question quiz here: https://tinyurl.com/elevators-trivia
+
+* Winners will randomly be chosen (weighted by the number of correct responses)
+
+* Use R, use the internet, use the people around you
+
+## Data
+
+These data were carefully curated by the one and only Emil Hvitfeldt. You can install the dataset with the following code:
+
+```{r}
+#| eval: false
+#| include: true
+remotes::install_github("emilhvitfeldt/elevators")
+```
+
+---
+class: hide-logo
+# Activity: Game Time!
+
+## Questions
+
+Quiz: https://tinyurl.com/elevators-trivia
+
+1. What device type has the highest variance in speed?
+2. What device type was first approved in the 1970s?
+3. What borough has the highest proportion (relative to other elevator types) of dumbwaiters? 
+4. What is the distance, in km and rounded to the nearest km, between the two farthest elevators on Staten Island?
+
+---
+class: hide-logo
+# Talk: Purrr 1.0.0
+
+#### Speaker: **Emil Hvitfeldt**
+[Emil Hvitfeldt](https://www.emilhvitfeldt.com/) is a Software Engineer at Posit PBC and proud co-author of [Supervised Machine Learning for Text Analysis with R](https://smltar.com/) along with Julia Silge. His interests include developing tools for natural language processing, machine learning using tidymodels, education, and the use of colors in data visualizations.
