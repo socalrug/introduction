@@ -1,0 +1,85 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Build a Shiny App Demo as a Cover Letter Accessory"
+author: ""
+date: "2023-03-21"
+output: 
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    includes:
+      after_body: insert-logo.html
+lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Schedule
+    * 6:30-7:00 meals and social
+    * 7:00-7:10 Intro
+    * 7:10-7:45 Talk
+    * 7:45-8:30 Q&A, ending remarks, more social
+]
+
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+**SoCal RUG**
+.large[
+* Linktree: https://linktr.ee/socalrug
+* Website: https://socalr.org
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# Upcoming Events
+
+### 4/18 - April SoCalRUG Meetup 
+
+Stay tuned for details about our April monthly meetup at PeopleSpace. Going forward, we're hoping to host meetups at PeopleSpace every third Tuesday of the month.
+
+If you have any recommendations on local speakers or presenters, or want to learn about a specific data science topic, R package, etc., please let us know!
+
+### 4/22-4/23 Data Science Hackathon
+
+Save the date, we will be hosting a Data Science Hackathon at UC-Irvine. 
+
+---
+class: hide-logo
+# Shiny App Demo as a Cover Letter
+
+#### Speaker: Our own **Javier Orraca-Deatcu**
+[Javier Orraca-Deatcu](https://www.javierorracadeatcu.com) has a strong foundation in consulting and spent over twelve years in financial modeling and valuation prior to pivoting into data science. During this time, he honed his analytical and problem-solving skills, providing clients with insights to inform critical business decisions around the M&A deal cycle. Over the last five years, Javier shifted his professional focus to programming with R for the purposes of data science and MLOps. He is adept at extracting insights from complex data sets, enabling businesses to make data-driven decisions, and he develops and deploys ML models using a range of technologies including cloud platforms and containerization.
+
+
+*Bio written by ChatGPT*
+
