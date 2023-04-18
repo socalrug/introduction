@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Meetup   Southern California R Users Group</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="" />
+    <meta name="date" content="2023-04-18" />
+    <script src="Intro-2023-04-18_files/header-attrs/header-attrs.js"></script>
+    <link href="Intro-2023-04-18_files/remark-css/default.css" rel="stylesheet" />
+    <link href="Intro-2023-04-18_files/remark-css/metropolis.css" rel="stylesheet" />
+    <link href="Intro-2023-04-18_files/remark-css/metropolis-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+.title[
+# <strong>Meetup</strong> <br> Southern California R Users Group
+]
+.subtitle[
+## Intro to {sherlock}: an R Package for Problem Diagnosis
+]
+.author[
+### 
+]
+.date[
+### 2023-04-18
+]
+
+---
+
+
+
+
+# Welcome
+
+.large[
+* Schedule
+    * 6:30-7:00 meals and social
+    * 7:00-7:10 Intro
+    * 7:10-7:45 Talk
+    * 7:45-8:30 Q&amp;A, ending remarks, more social
+]
+
+---
+class: hide-logo
+# Sponsors
+&lt;br&gt;
+&lt;br&gt;
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+&lt;br&gt;
+&lt;br&gt;
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+**SoCal RUG**
+.large[
+* Linktree: https://linktr.ee/socalrug
+* Website: https://socalr.org
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# Upcoming Events
+
+### 4/22-4/23 Data Science Hackathon
+
+We will be hosting a Data Science Hackathon at UC Irvine, however, this event is now *SOLD OUT*.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+### 5/16 - May SoCalRUG Meetup 
+
+[Luke Morris, MSBA, MHDS](https://www.linkedin.com/in/lukesmorris/) will be presenting his research and work titled _*Beyond the Symptoms: How one Emergency Department is reducing overutilization by broadening homelessness services*_.
+
+We will be posting this event soon to our Meetup and if you have any recommendations on local speakers or presenters, or want to learn about a specific topic, please let us know!
+
+---
+class: hide-logo
+# Intro to {sherlock}: an R Package for Problem Diagnosis
+
+#### Speaker: **Gabor Szabo**
+[Gabor Szabo](https://www.linkedin.com/in/gaboraszabo/) is a Sr. Principal Engineer at Edwards Lifesciences where he plays an integral part in developing enterprise-wide strategy for validating automated manufacturing processes, and developing solutions that enhance product quality and reliability.
+
+Gabor analyzes and visualizes data using R, Power BI, and Excel, he has led R programming and data analytics trainings to Edwards Lifesciences employees, and he develops data products using R Shiny for analysis and simulation purposes.
+
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"ratio": "16:9"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();</script>
+<style>
+.logo {
+  background-image: url(images/hex_501x579.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  width: 110px;
+  height: 128px;
+  z-index: 0;
+}
+</style>
+
+<script>
+document
+  .querySelectorAll(
+    '.remark-slide-content' +
+    //':not(.title-slide)' +
+    // add additional classes to exclude here, e.g.
+    // ':not(.inverse)' +
+    ':not(.hide-logo)'
+  )
+  .forEach(el => {
+    el.innerHTML += '<div class="logo"></div>';
+  });
+</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

@@ -1,0 +1,88 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Intro to {sherlock}: an R Package for Problem Diagnosis"
+author: ""
+date: "2023-04-18"
+output: 
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    nature:
+      ratio: '16:9'
+    includes:
+      after_body: insert-logo.html
+lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Schedule
+    * 6:30-7:00 meals and social
+    * 7:00-7:10 Intro
+    * 7:10-7:45 Talk
+    * 7:45-8:30 Q&A, ending remarks, more social
+]
+
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+**SoCal RUG**
+.large[
+* Linktree: https://linktr.ee/socalrug
+* Website: https://socalr.org
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# Upcoming Events
+
+### 4/22-4/23 Data Science Hackathon
+
+We will be hosting a Data Science Hackathon at UC Irvine, however, this event is now *SOLD OUT*.
+<br>
+<br>
+<br>
+### 5/16 - May SoCalRUG Meetup 
+
+[Luke Morris, MSBA, MHDS](https://www.linkedin.com/in/lukesmorris/) will be presenting his research and work titled _*Beyond the Symptoms: How one Emergency Department is reducing overutilization by broadening homelessness services*_.
+
+We will be posting this event soon to our Meetup and if you have any recommendations on local speakers or presenters, or want to learn about a specific topic, please let us know!
+
+---
+class: hide-logo
+# Intro to {sherlock}: an R Package for Problem Diagnosis
+
+#### Speaker: **Gabor Szabo**
+[Gabor Szabo](https://www.linkedin.com/in/gaboraszabo/) is a Sr. Principal Engineer at Edwards Lifesciences where he plays an integral part in developing enterprise-wide strategy for validating automated manufacturing processes, and developing solutions that enhance product quality and reliability.
+
+Gabor analyzes and visualizes data using R, Power BI, and Excel, he has led R programming and data analytics trainings to Edwards Lifesciences employees, and he develops data products using R Shiny for analysis and simulation purposes.
+
