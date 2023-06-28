@@ -75,7 +75,7 @@ If you have any recommendations for local speakers or presenters, or if you want
 class: hide-logo
 # Best Insight Award:
 
-#### Speaker: **Runtime Terror: Ruchi Isaac and Chakrapani Suresh**
+#### Speaker: **Outliers: Ruchi Isaac and Chakrapani Suresh**
 
 Ruchi Isaac and Chakrapani Suresh are graduates with their Masters in Information Systems from California State University Long Beach. Their project focused on finding data anomalies that would go mostly unnoticed while performing data analysis.
 
