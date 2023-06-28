@@ -1,0 +1,93 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "2023 SoCal RUG Hackathon Winners Presentations"
+author: ""
+date: "2023-06-27"
+output: 
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    nature:
+      ratio: '16:9'
+    includes:
+      after_body: insert-logo.html
+lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Schedule
+    * 6:30-7:00 meals and social
+    * 7:00-7:10 Intro
+    * 7:10-8:00 Talks
+    * 8:00-8:30 Q&A, ending remarks, more social
+]
+
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+**SoCal RUG**
+.large[
+* Linktree: https://linktr.ee/socalrug
+* Website: https://socalr.org
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# Upcoming Events
+
+### 7/18 - TBA 
+
+We are very excited for our next meetups, and we will announce them soon.
+
+If you have any recommendations for local speakers or presenters, or if you want to learn more about a specific topic, please let us know!
+
+---
+class: hide-logo
+# Best Insight Award:
+
+#### Speaker: **Runtime Terror: Ruchi Isaac and Chakrapani Suresh**
+
+Ruchi Isaac and Chakrapani Suresh are graduates with their Masters in Information Systems from California State University Long Beach. Their project focused on finding data anomalies that would go mostly unnoticed while performing data analysis.
+
+---
+class: hide-logo
+# Best Presentation Award:
+
+#### Speaker: **Team Runtime Terror: Kushal Bansal, Ravali Kandula, Karan Patharkar, and Rahul Mishra**
+Kushal Bansal is a passionate data enthusiast with a strong background as an Analyst, accumulating valuable expertise over a span of 3 years. Currently he is pursuing Business Analytics from UCI and actively seeking new opportunities to leverage his expertise.  
+
+Ravali Kandula is currently pursuing her masters in business analytics at Paul merage school of business. She recently joined Cardinal Health as a financial analyst intern.  
+
+Karan Patharkar is a soon to be graduate from UCI with a master's in Business Analytics. He is a talented data analyst and visualization expert known for transforming complex datasets into actionable insights.  
+
+Rahul Mishra has recently graduated from University of California Irvine in Business Analytics and is an aspiring data analyst who loves working with Tableau and Power BI on data visualization. He is also looking for a job to utilize his analytical skills.
