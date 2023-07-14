@@ -1,0 +1,76 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Building Shiny for Python apps for Data Science"
+author: ""
+date: "2023-07-18"
+output: 
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    nature:
+      ratio: '16:9'
+    includes:
+      after_body: insert-logo.html
+lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+.large[
+* Schedule
+    * 6:30-7:00 meals and social
+    * 7:00-7:10 Intro
+    * 7:10-8:00 Talks
+    * 8:00-8:30 Q&A, ending remarks, more social
+]
+
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+**SoCal RUG**
+.large[
+* Linktree: https://linktr.ee/socalrug
+* Website: https://socalr.org
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# Building Shiny for Python apps for Data Science
+
+### About Shiny
+
+In this workshop, we’ll build a simple [Shiny for Python](https://shiny.posit.co/py/) app from scratch using some of your favorite python data science packages, and talk about the ways Shiny for Python can play a role in your data work!
+
+### About Our Speaker
+
+[Chelsea Parlett-Pelleriti](https://www.linkedin.com/in/chelseaparlettpelleriti/) is an Assistant Professor in Chapman University’s Fowler School of Engineering, teaching Data Science, Machine Learning, and Computer Science. Her research interests center around using statistics and machine learning to analyze behavioral data. She also loves science communication and spends a lot of time making statistics memes to help make statistics more accessible and welcoming to all.
+
+Chelsea values using new, engaging technology and other pedagogical techniques (such as flipped classes, legos, and simulation-based instruction for statistical concepts) in order to better serve students and to help them develop a sense of passion and engagement for their subjects.
