@@ -32,6 +32,9 @@ options(servr.daemon = TRUE)
     * 8:00-8:30 Q&A, ending remarks, more social
 ]
 
+Network: Ps VIP
+Pwd: england-france-greece
+
 ---
 class: hide-logo
 # Sponsors
@@ -59,6 +62,17 @@ class: hide-logo
 * YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
 * Twitter [@socalrug](https://twitter.com/socalrug)
 * Linkedin: https://www.linkedin.com/company/socalrug/
+]
+
+---
+class: hide-logo
+# Miscellaneous
+
+.large[
+* Looking for a new place to meet
+* Next Meeting: September 26
+* If you have an idea and want to execute it, talk to us!!
+  * We can provide support
 ]
 
 ---
