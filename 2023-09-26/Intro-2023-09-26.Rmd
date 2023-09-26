@@ -1,0 +1,85 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Highlights and Learnings from posit::conf(2023)"
+author: ""
+date: "2023-09-26"
+output: 
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    nature:
+      ratio: '16:9'
+    includes:
+      after_body: insert-logo.html
+lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(servr.daemon = TRUE)
+```
+
+# Welcome
+
+### Schedule
+* 6:30-7:00 meals and social
+* 7:00-7:10 Intro
+* 7:10-8:00 Talks
+* 8:00-8:30 Q&A, ending remarks, more social
+
+### WiFi Network:
+* Ps VIP
+
+### WiFi Password:
+* england-france-greece
+
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+  
+![](images/UCI_Merage_Business_School.jpg)
+---
+class: hide-logo
+# Sponsors
+<br>
+<br>
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+---
+class: hide-logo
+# Connect with us
+
+### SoCal RUG
+
+* Linktree: https://linktr.ee/socalrug
+* Meetup: https://www.meetup.com/socal-rug/
+* GitHub: https://github.com/socalrug
+* Slack: https://socalrug.slack.com
+* YouTube: https://www.youtube.com/c/SouthernCaliforniaRUsersGroup
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: https://www.linkedin.com/company/socalrug/
+
+---
+class: hide-logo
+# Miscellaneous
+
+### Updates
+* THIS IS THE LAST EVENT WE'LL HOST AT PEOPLESPACE
+* We've narrowed down our search for a new home
+* October meeting: TBD
+* If you have an idea and want to execute it, talk to us!!
+  * We can provide support
+
+---
+class: hide-logo
+# Highlights and learnings from posit::conf(2023)
+
+### Open Knowledge Sharing
+
+We'd love to invite any of our members to share interesting information they learned at posit::conf(2023)! 
