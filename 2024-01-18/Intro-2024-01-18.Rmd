@@ -33,6 +33,14 @@ options(servr.daemon = TRUE)
 ---
 class: hide-logo
 # Sponsors
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+---
+class: hide-logo
+# Sponsors
 <br>
 <br>
   
