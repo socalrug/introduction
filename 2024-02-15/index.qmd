@@ -1,0 +1,93 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "What's New in Quarto & Lightning Talks ⚡️"
+date: "2024-02-15"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:10-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Sponsors
+  
+![](images/UCI_Merage_Business_School.jpg)
+
+## Sponsors
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Updates
+
+* Our annual hackathon will be held on April 27-28 (Saturday and Sunday) at UC Irvine's Paul Merage School of Business
+  * Stay tuned for updates on how to register with a team or solo
+
+* Join us in March for a meetup with Travis Gerke on causal inference
+
+# Presentations
+
+## Keynote Video Presentation
+
+_What's New in Quarto?_ by Charlotte Wickham
+
+{{< video https://www.youtube.com/embed/WR08GESib9Y?si=gj8LXMCwyAncbPdA width="100%" height="75%" >}}
+
+## Lightning Talk 1
+
+_20 Questions and AI Chat Bots_ by Winston Chang
+
+{{< video https://www.youtube.com/embed/Sn9Uj6vW4-Y?si=G3-UTrfa_51UJib1 width="100%" height="75%" >}}
+
+## Lightning Talk 2
+
+_Why You Should Add Logging To Your Code_ by Darin Eiri
+
+{{< video https://www.youtube.com/embed/J7PUG3dLvBo?si=CgdMoccrxaYTEu4z width="100%" height="75%" >}}
+
+## Lightning Talk 3
+
+_Insights in 5-D! (Using Magic Small-Multiples)_ by Matt Dzugan
+
+{{< video https://www.youtube.com/embed/huRcd6pB5O8?si=KeHryLh7GtjBB15D width="100%" height="75%" >}}
+
+## Lightning Talk 4
+
+_dplyr 1.1 Features You Can't Live Without_ by Davis Vaughan
+
+{{< video https://www.youtube.com/embed/K_7UJA2syLk?si=00--vrMpApYUqqHc width="100%" height="75%" >}}
+
+# Q&A

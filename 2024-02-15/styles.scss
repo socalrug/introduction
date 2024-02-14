@@ -10,13 +10,17 @@ $presentation-font-size-root: 32px;
 /*-- scss:rules --*/
 
 .no-logo > .slide-logo {
-  max-height: 40px !important;
+  max-height: 150px !important;
 }
 
 .reveal .slide-logo {
-  max-height: 100px !important;
+  max-height: 150px !important;
   bottom: unset;
   top: 0;
+}
+
+.reveal .title-slide h1 {
+  font-size: 9rem !important;
 }
 
 #title-slide {
