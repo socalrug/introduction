@@ -1,0 +1,67 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "G-Thangs"
+date: "2024-03-21"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:10-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Sponsors
+  
+![](images/UCI_Merage_Business_School.jpg)
+
+## Sponsors
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Updates
+
+* Our annual hackathon will be held on April 27-28 (Saturday and Sunday) at UC Irvine's Paul Merage School of Business
+  * Stay tuned for updates on how to register with a team or solo
+
+* Join us in April for another meetup and a data science / GenAI panel discussion at UC Irvine in May
+
+# G-Thangs: Causal Inference with R
+
+## About Our Presenter
+
+Travis Gerke, ScD, is Director of Data Science at the PCCTC, a contract research organization that facilitates clinical trials and real-world evidence studies in oncology. He is also co-founder of cStructure, a technology company that provides a collaborative platform for causal design and inference.
+
+# Q&A
