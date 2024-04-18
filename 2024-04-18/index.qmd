@@ -1,0 +1,74 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Research Computational Data Science at CHOC"
+date: "2024-04-18"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:10-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Sponsors
+  
+![](images/UCI_Merage_Business_School.jpg)
+
+## Sponsors
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Updates
+
+* April 27-28: Our annual hackathon will be held on Saturday and Sunday at UC Irvine's Paul Merage School of Business
+  * Register [on Eventbrite](https://www.eventbrite.com/e/socalrug-data-science-hackathon-tickets-862572245807)
+
+* May 15: Join us at UC Irvine for a panel discussion on _Navigating the Present & Future of GenAI in Production_
+
+* May TBD: Our monthly meetup
+
+
+# Research Computational<br>DS at CHOC
+
+## About Our Presenter
+
+[Quinn Gates](https://www.linkedin.com/in/quinn-gates-d/) is a Research Computational Data Scientist at CHOC Children's Hospital. On the RCS team, he specializes in Machine Learning, Image Analysis, and Data Services.
+
+He is a Chapman University graduate where he received a Bachelors Degree in Mathematics and a Masters Degree in Computational and Data Sciences.
+
+Quinn loves using his abilities and his education to serve his community.
+
+# Q&A
