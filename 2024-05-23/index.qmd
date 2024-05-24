@@ -1,0 +1,81 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Free-ranging Griffon Vultures: movement, social network, and {targets}"
+date: "2024-05-23"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:10-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Sponsors
+  
+![](images/UCI_Merage_Business_School.jpg)
+
+## Sponsors
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Updates
+
+- **Sat, May 25: Supervised Machine Learning Techniques with R**
+  * 9am-4pm at UC Irvine and led by Dr. Olga Korosteleva
+  * [Register on Eventbrite](https://www.eventbrite.com/e/supervised-machine-learning-techniques-with-r-tickets-880552244467)
+<br><br>
+- **Tue, May 28: Tech by the Beach (May social)**
+  * 6-8pm at ISM Brewery in Long Beach hosted by Nic Moe
+  * [Register on Meetup](https://www.meetup.com/tech-by-the-beach/events/300895297/)
+<br><br>
+- **Thu, Jun 20: Targets Package Deep-Dive**
+  * Daniel Chu will present on the [{targets}](https://books.ropensci.org/targets/) package
+  * Meetup registration pending 
+
+# Free-ranging Griffon Vultures and R!
+
+## About Our Presenter
+
+- [Kaija Gahm](https://kaijagahm.netlify.app/) is a third-year PhD candidate in Ecology & Evolutionary Biology at UCLA
+<br><br>
+- Her research focuses on how animals move through their habitat and interact with each other, using data from a free-ranging population of GPS-tracked vultures.
+<br><br>
+- Kaija has been using and teaching R for many years and is passionate about open science and reproducible methods
+<br><br>
+- She serves on the board of the Society for Open, Reliable, and Transparent Ecology & Evolutionary Biology (SORTEE), leads the "Hacky Hours" coding workspace at UCLA, and teaches workshops with The Carpentries
+
+
+# Q&A
