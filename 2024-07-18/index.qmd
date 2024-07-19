@@ -1,7 +1,7 @@
 ---
 title: "**Meetup** <br> Southern California R Users Group"
 subtitle: "Positron: A new IDE for Data Science"
-date: "2024-07-18"
+date: "2024-07-18 "
 format:
   revealjs: 
     logo: images/hex_501x579.png
