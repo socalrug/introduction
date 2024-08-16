@@ -1,0 +1,71 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Analyzing Consistency in LLM Outputs Leveraging Colourful Queries"
+date: "2024-08-15"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:10-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Sponsors
+  
+![](images/UCI_Merage_Business_School.jpg)
+
+## Sponsors
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* Twitter [@socalrug](https://twitter.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Updates
+
+- **Thu, Sep 19: SoCal RUG Meetup (TBD)**
+
+# Analyzing Consistency in LLM Outputs Leveraging Colourful Queries
+
+## About Our Presenter
+
+- [Anna Sofia Kircher](https://www.linkedin.com/in/anna-sofia-kircher/) is a Senior Consultant at EY’s AI & Data Advisory Services practice, specializing in risk analytics and ESG and climate related data modeling, integration and reporting
+
+- With over 6 years of experience in the financial service industry in developed and emerging and frontier markets
+
+- Throughout her career, Anna has thrived on diverse projects, engaging in qualitative analysis, crafting risk assessment frameworks, supporting macroeconomic and climate scenario modeling and analysis, as well as enabling faster and data-driven decision-making through statistical modeling and machine learning
+
+- She holds a Master’s degree in Mathematics and is passionate about colours, R and crocheting
+
+
+# Q&A
