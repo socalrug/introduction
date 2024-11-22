@@ -55,7 +55,7 @@ format:
 
 - **Jan: Tech By The Beach x SoCal RUG (CSULB)**
 
-# Mumps and Models: Crunching the Numbers Behind a Resurgent Disease
+## Mumps and Models: Crunching the Numbers Behind a Resurgent Disease {.center}
 
 ## About Our Presenter
 
