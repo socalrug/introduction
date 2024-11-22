@@ -1,0 +1,66 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Mumps and Models: Crunching the Numbers Behind a Resurgent Disease"
+date: "2024-11-21"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:05-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Sponsors
+  
+![](images/UCI_Merage_Business_School.jpg)
+
+## Sponsors
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* X: [@socalrug](https://x.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Updates
+
+- **Jan: Tech By The Beach x SoCal RUG (CSULB)**
+
+# Mumps and Models: Crunching the Numbers Behind a Resurgent Disease
+
+## About Our Presenter
+
+- [Deven Gokhale](https://www.linkedin.com/in/gokhale616) is a quantitative research scientist focused on connecting mathematical and statistical models with real-world disease data to explore how viruses interact within human populations
+
+- Deven is especially interested in understanding how differences in host characteristics and population structure can shape the patterns of pathogen spread and persistence
+
+# Q&A
