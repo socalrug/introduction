@@ -1,0 +1,70 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Marketing Mix Modeling: The Science of Smarter Spend"
+date: "2025-02-20"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:05-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Sponsors
+  
+![](images/UCI_Merage_Business_School.jpg)
+
+## Sponsors
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* X: [@socalrug](https://x.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Updates
+
+- **Mar TBD**: Tech By The Beach x SoCal RUG social (Long Beach)
+- **Apr TBD**: SQL for Business Analytics
+- **Apr 17**: Lightning Talks (Chapman)
+
+## Marketing Mix Modeling: The Science of Smarter Spend {.center}
+
+## About Our Presenter
+
+<br><br>
+
+- [Chelsea Parlett](https://www.linkedin.com/in/chelseaparlettpelleriti/) is a Consulting Statistician and Recast Labs, a Bayesian Marketing Mix Modeling company building State of the art marketing measurement tools
+<br><br>
+- Chelsea was previously a Professor at Chapman University, teaching Data Science, Machine Learning and Statistics, and spends most of her time making bad jokes about statistics on the internet
+
+# Q&A
