@@ -52,9 +52,11 @@ format:
 * Linkedin: <https://www.linkedin.com/company/socalrug/>
 
 ## Updates
-
+<br><br>
 - **Mar TBD**: Tech By The Beach x SoCal RUG social (Long Beach)
+<br><br>
 - **Apr TBD**: SQL for Business Analytics
+<br><br>
 - **Apr 17**: Lightning Talks (Chapman)
 
 ## Marketing Mix Modeling: The Science of Smarter Spend {.center}
