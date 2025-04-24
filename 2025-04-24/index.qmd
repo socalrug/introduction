@@ -1,0 +1,67 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Tidier.jl: The Story Behind Rebuilding the {tidyverse} in Julia"
+date: "2025-04-24"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:05-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Sponsors
+  
+![](images/UCI_Merage_Business_School.jpg)
+
+## Sponsors
+
+![](images/MDS-Homepage-Header-1536x512.jpg)
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* X: [@socalrug](https://x.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Updates
+<br><br>
+- **May 15**: ⚡️ Lightning Talks ⚡️
+
+## Tidier.jl: <br>The Story Behind Rebuilding the {tidyverse} in Julia {.center}
+
+## About Our Presenter
+
+- [Karandeep Singh](https://www.linkedin.com/in/kdpsingh/), MD, MMSc, is the Chief Health AI Officer for UC San Diego Health, and Joan and Irwin Jacobs Chancellor’s Endowed Chair and Associate Professor of Medicine in Biomedical Informatics at UC San Diego
+- In these roles, Dr. Singh oversees AI strategy and governance for the health system and leads AI initiatives within the Jacobs Center for Health Innovation
+- He completed his internal medicine residency at UCLA Medical Center, where he served as chief resident, and a nephrology fellowship in the combined Brigham and Women’s Hospital and Massachusetts General Hospital program
+- Karendeep completed his medical education at the University of Michigan Medical School and holds a master’s degree in Biomedical Informatics from Harvard Medical School
+
+# Q&A
