@@ -1,0 +1,54 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "⚡ Lightning Talks Night!"
+date: "2025-05-15"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:05-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* X: [@socalrug](https://x.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+
+## Talks: <br> ⚡️ Lightning Talks ⚡️{.center}
+
+## About the Talks and Presenters
+
+- What Can Students Do After an Introductory Data Science Class? by Dwight Wynne
+- From Interpreter to Analyst: Learning to Speak the Language of Data by Grace Kim
+- How I Rebuilt Myself Like a Startup (and What It Taught Me About Engineering Systems That Don’t Crash) by Devyn Miller
+- Introducing Voice Cloning using INDEX-TTS and Demo by Takeo Shibata
