@@ -1,0 +1,55 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Stop Horsing Around - Ship the Query!"
+date: "2025-10-16"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:05-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* X: [@socalrug](https://x.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+
+## Stop Horsing Around - Ship the Query! {.center}
+
+## About Our Presenter 
+
+- [Emil Hvitfeldt](https://emilhvitfeldt.com/) is a Software Engineer at Posit PBC and proud co-author of [Supervised Machine Learning for Text Analysis with R](https://smltar.com/) with Julia Silge
+<br><br>
+- His interests include developing tools for natural language processing, machine learning using [tidymodels](https://www.tidymodels.org/), education, and the use of colors in data visualizations
+
+# Q&A
