@@ -1,0 +1,61 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "Running LLMs Locally with Docker Model Runner"
+date: "2026-01-15"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:05-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* X: [@socalrug](https://x.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Upcoming Events
+
+* Feb 19: Social (Location TBD)
+* Mar 19: Chapman University
+
+## Running LLMs Locally with Docker Model Runner {.center}
+
+## About Our Presenter 
+
+- [Rami Krispin](https://github.com/RamiKrispin) is a senior data science and engineering manager, Docker Captain, and LinkedIn Learning instructor. He mainly focuses on time series analysis, forecasting, and MLOps applications.
+
+- He is passionate about open source, working with data, machine learning, and putting stuff into production. He creates content about MLOps and recently released a course, _Data Pipeline Automation with GitHub Actions Using R and Python_, on LinkedIn Learning, and multiple tutorials about Docker for data science.
+
+- He is the author of Hands-On Time Series Analysis with R and is currently working on my next book, Applied Time Series Analysis and Forecasting, which focuses on forecasting at scale with Python.
+
+# Q&A
