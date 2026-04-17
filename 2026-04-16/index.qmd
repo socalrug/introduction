@@ -1,0 +1,61 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "From Metadata to Agents: Building AI-Powered Data Workflows with OpenMetadata"
+date: "2026-04-16"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:05-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* X: [@socalrug](https://x.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Upcoming Events
+
+* May 21: Malcolm Barrett (Research Software Engineer @ Stanford)
+* June 18: Tyler Burch (Lead Analyst @ Boston Red Sox)
+
+## From Metadata to Agents: Building AI-Powered Data Workflows with OpenMetadata {.center}
+
+## About Our Presenter 
+
+- [Erfan Hesami](https://www.linkedin.com/in/erfanhesami/) is a Senior Data Engineer / Architect who has worked with companies such as Allianz, Xero, AFL, and Airmaster, helping teams better use their data.
+
+- He started his career as a Data Analyst, then moved into Analytics Engineering, and now focuses on building data platforms and systems.
+
+- Erfan enjoys sharing what he learns about data engineering and AI through simple, practical content on his Substack, [_Pipeline to Insights_](https://substack.com/@pipeline2insights), helping others grow in their careers.
+
+# Q&A
