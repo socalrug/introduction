@@ -1,0 +1,60 @@
+---
+title: "**Meetup** <br> Southern California R Users Group"
+subtitle: "The Evolution of Baseball Analytics"
+date: "2026-06-18"
+format:
+  revealjs: 
+    logo: images/hex_501x579.png
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+# Welcome 🤓
+
+## Welcome 🤓
+
+<br><br>
+
+### Schedule
+
+* 6:30-7:00 meals and social
+* 7:00-7:05 Intro
+* 7:05-8:00 Presentations
+* 8:00-8:30 Q&A, ending remarks, more social
+
+# Sponsors
+
+## Sponsors {.no-logo}
+
+<img src="images/SoCalRUG EECS Slide.png"
+     width="1150px" height="500px"
+     style="position:absolute; right:10px; top:130px;">
+
+## Connect with us
+
+### SoCal RUG
+
+* Linktree: <https://linktr.ee/socalrug>
+* Meetup: <https://www.meetup.com/socal-rug/>
+* GitHub: <https://github.com/socalrug>
+* Slack: <https://socalrug.slack.com>
+* YouTube: <https://www.youtube.com/c/SouthernCaliforniaRUsersGroup>
+* X: [@socalrug](https://x.com/socalrug)
+* Linkedin: <https://www.linkedin.com/company/socalrug/>
+
+## Upcoming Events
+
+* TBD
+
+## The Evolution of Baseball Analytics {.center}
+
+## About Our Presenter 
+
+- [Tyler Burch](https://www.linkedin.com/in/tylerjburch/) is a Lead Data Analyst in baseball research and development with the Boston Red Sox, where he works on the Player Evaluation team after several years in Baseball Sciences.
+
+- Before joining the Red Sox, he was a postdoctoral researcher at Argonne National Laboratory, developing simulation and machine learning methods for particle physics on Aurora, the first U.S. exascale computer.
+
+- He earned his Ph.D. working on the ATLAS experiment at CERN, with research focused on rare Higgs boson interactions, machine learning for particle classification, and software for high-performance detector systems. Outside of work, Tyler enjoys jazz, baking bread, and running.
+
+# Q&A
